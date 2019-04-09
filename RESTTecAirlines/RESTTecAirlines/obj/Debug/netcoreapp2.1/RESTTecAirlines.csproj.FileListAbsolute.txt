@@ -1,0 +1,14 @@
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\bin\Debug\netcoreapp2.1\RESTTecAirlines.deps.json
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\bin\Debug\netcoreapp2.1\RESTTecAirlines.runtimeconfig.json
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\bin\Debug\netcoreapp2.1\RESTTecAirlines.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\bin\Debug\netcoreapp2.1\RESTTecAirlines.dll
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\bin\Debug\netcoreapp2.1\RESTTecAirlines.pdb
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.RazorAssemblyInfo.cache
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.RazorAssemblyInfo.cs
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.AssemblyInfo.cs
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.RazorTargetAssemblyInfo.cache
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.dll
+C:\Users\pablo\source\repos\RESTTecAirlines\RESTTecAirlines\obj\Debug\netcoreapp2.1\RESTTecAirlines.pdb
